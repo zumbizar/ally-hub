@@ -105,7 +105,7 @@ section {
 }
 
 .btn-regular:hover {
-  background-color: #0191f0;
+  background-color: #00b7ff;
   color: #ffffff;
 }
 
@@ -397,8 +397,13 @@ section {
   padding: 15px 45px;
 }
 
+#call-to-action .btn-regular:hover {
+  background-color: #0095f7 !important;
+  color: #ffffff !important;
+}
+
 .btn-regular:hover {
-  background-color: #476c9b;
+  background-color: #00b7ff;
 }
 
 #call-to-action .title-block {
