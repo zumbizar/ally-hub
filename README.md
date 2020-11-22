@@ -4,6 +4,10 @@ Projeto com o intuito ao Desafio da Ally Hub, usando o Angular v1!
 
 <img src="https://user-images.githubusercontent.com/68034298/99915141-94762800-2ce0-11eb-843c-46d46b303af0.gif" >
 
+## Participantes
+
+[<img src="https://avatars1.githubusercontent.com/u/68034298?s=460&u=e740c043521aa42a70260b6bd717dadd11df8623&v=4" width="100px;"/>](https://github.com/zumbizar)
+
 [Fernando Henrique](https://github.com/zumbizar)
 
 
