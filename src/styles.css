@@ -81,7 +81,7 @@ section {
 }
 
 /* ==============================================
-   3. Buttons
+   Buttons
 ===============================================*/
 
 .btn {
@@ -102,6 +102,7 @@ section {
   letter-spacing: 0.1em;
   margin-top: 25px;
   display: inline-block;
+  font-weight: 500;
 }
 
 .btn-regular:hover {
@@ -154,58 +155,7 @@ section {
 }
 
 /* ==============================================
-   4. Hero
-===============================================*/
-
-#hero {
-  background-color: #f6f8f9;
-}
-
-#hero h1 {
-  font-size: 50px;
-  font-weight: 300;
-}
-
-#hero p {
-  font-size: 24px;
-  font-weight: 300;
-  color: #8da2b5;
-  margin-bottom: 0px;
-  padding: 0px;
-}
-
-#hero span {
-  font-weight: 400;
-  color: #0095f7;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-/* ==============================================
-   5. Marketing
-===============================================*/
-
-#marketing p {
-  font-size: 20px;
-  font-weight: 300;
-  color: #8da2b5;
-  margin-bottom: 0px;
-  padding: 0px;
-}
-
-#marketing span {
-  font-weight: 400;
-  color: #0095f7;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.content-box {
-  padding: 60px 20px;
-}
-
-/* ==============================================
-   6. Testimonials
+   Testimonials
 ===============================================*/
 
 #testimonials {
@@ -300,72 +250,7 @@ section {
 }
 
 /* ==============================================
-   7. Pricing
-===============================================*/
-
-.pricing-box {
-  background-color: #ffffff;
-  padding: 40px 20px;
-  border: 1px solid #f8f9fb;
-  border-radius: 6px;
-  box-shadow: 0 0 1px 0 rgba(0, 12, 32, 0.04),
-    0 10px 16px 0 rgba(10, 31, 68, 0.06);
-  margin-top: 30px;
-}
-
-.pricing-box h3 {
-  font-size: 22px;
-  font-weight: 300;
-  letter-spacing: 0.1em;
-  color: #0095f7;
-}
-
-.pricing-box h6 {
-  font-size: 60px;
-  font-weight: 700;
-  color: #3a3f52;
-  margin-bottom: 0px;
-}
-
-.pricing-box p {
-  font-size: 17px;
-  margin-top: 15px;
-  padding: 0px;
-}
-
-.pricing-box ul {
-  padding-left: 10px;
-}
-
-.pricing-box li {
-  font-size: 14px;
-  font-weight: 300;
-  color: #8da2b5;
-  letter-spacing: 0.1em;
-}
-
-.pricing-box span {
-  font-weight: 500;
-  color: #0095f7;
-}
-
-.pricing-box small {
-  color: #8da2b5;
-  letter-spacing: 0.2em;
-}
-
-.pricing-box i {
-  font-size: 20px;
-  color: #0095f7;
-  margin-right: 10px;
-}
-
-.pricing-box .demo {
-  color: #6772e5 !important;
-}
-
-/* ==============================================
-   8. Call to Action
+   Call to Action
 ===============================================*/
 
 #call-to-action {
@@ -411,7 +296,7 @@ section {
 }
 
 /* ==============================================
-   9. Media Queries
+   Media Queries
 ===============================================*/
 
 /* Extra small devices (portrait phones, less than 576px) */
@@ -544,15 +429,6 @@ section {
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) and (max-width: 991.98px) {
-  .pricing-box h3 {
-    font-size: 17px;
-  }
-  .pricing-box p {
-    font-size: 14px;
-  }
-  .pricing-box li {
-    font-size: 12px;
-  }
   .btn-buy {
     font-size: 12px;
     padding: 15px 20px;
