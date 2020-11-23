@@ -18,7 +18,7 @@ Projeto com o intuito ao Desafio da Ally Hub, usando o Angular v1!
 - [x] Bootstrap
 - [x] PNG Images
  
- ## Iniciando ambiente de desenvolvimento:
+ ## Iniciando o ambiente de desenvolvimento:
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
 
