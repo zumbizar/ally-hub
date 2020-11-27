@@ -1,6 +1,6 @@
 # Project Ally Hub :computer:
 
-Projeto com o intuito ao Desafio da Ally Hub, usando o Angular v1!!!
+Projeto com o intuito ao Desafio da Ally Hub, usando o Angular v1!
 
 <img src="https://user-images.githubusercontent.com/68034298/99915141-94762800-2ce0-11eb-843c-46d46b303af0.gif" >
 
